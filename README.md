@@ -1,3 +1,7 @@
+# Skill Set 1
+## AWS
+Domain: https://app.gitea-xt.run.place/
+
 # Skill Set 2
 ## Kubernetes
 How to access the application?
